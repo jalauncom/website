@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jalaun</title>
+	<atom:link href="httpjalauncom.github.io/website//feed/" rel="self" type="application/rss+xml" />
+	<link>httpjalauncom.github.io/website/</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Aug 2023 00:55:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+	<item>
+		<title>Hello!</title>
+		<link>httpjalauncom.github.io/website//2023/08/08/hello-world/</link>
+					<comments>httpjalauncom.github.io/website//2023/08/08/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[jalaundotcom]]></dc:creator>
+		<pubDate>Tue, 08 Aug 2023 00:53:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">httpjalauncom.github.io/website//?p=1</guid>
+
+					<description><![CDATA[Welcome to Jalaun.com.]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to Jalaun.com. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>httpjalauncom.github.io/website//2023/08/08/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
